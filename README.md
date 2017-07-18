@@ -3,7 +3,7 @@ hell
 <html>
 <head>
 </head>
-<body style="bgcolor:red">
+<body style="background-color:red">
 hello world............................................................
 </body>
 </html>
